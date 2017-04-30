@@ -8,3 +8,9 @@ h1 {
 body {
   background-color:#DAA520;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
