@@ -48,12 +48,12 @@ li a:hover {
 
 <style>
 a:link {
-    color: green;  
+    color: white;  
     text-decoration: none;
 }
 
 a:visited {
-    color: pink;
+    color: green;
     text-decoration: none;
 }
 
