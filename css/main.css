@@ -18,10 +18,9 @@ p{
 }
 
 p1{
-  text-align:center;
   font-size: 15px;
   color: #ff9900;
-  padding : 14px;
+  padding : 14px 16px;
 }
 
 body {
